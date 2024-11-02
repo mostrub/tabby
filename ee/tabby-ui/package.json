@@ -45,7 +45,7 @@
     "lodash-es": "^4.17.21",
     "moment": "^2.29.4",
     "nanoid": "^4.0.2",
-    "next": "^13.4.7",
+    "next": "^14.2.10",
     "next-themes": "^0.2.1",
     "openai-edge": "^0.5.1",
     "react": "^18.2.0",
@@ -59,7 +59,7 @@
     "remark-gfm": "^3.0.1",
     "remark-math": "^5.1.1",
     "swr": "^2.2.4",
-    "zod": "^3.22.4",
+    "zod": "^3.23.8",
     "zustand": "^4.4.6"
   },
   "devDependencies": {
@@ -82,7 +82,7 @@
     "eslint-plugin-tailwindcss": "^3.12.0",
     "eslint-plugin-unused-imports": "^3.0.0",
     "npm-run-all": "^4.1.5",
-    "postcss": "^8.4.21",
+    "postcss": "^8.4.47",
     "prettier": "^2.7.1",
     "tailwind-merge": "^1.12.0",
     "tailwindcss": "^3.3.1",
